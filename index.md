@@ -19,21 +19,21 @@
   - [层次聚类](#层次聚类--第54天)
 
 ## 数据预处理 | 第1天
-[数据预处理实现](./Code/Day%201_Data_Preprocessing.md)
+[数据预处理实现](./Code/Day%201_Data_Preprocessing)
 
 <p align="center">
   <img src="./Info-graphs/Day%201.jpg">
 </p>
 
 ## 简单线性回归 | 第2天
-[简单线性回归实现](./Code/Day%202_Simple_Linear_Regression.md)
+[简单线性回归实现](./Code/Day%202_Simple_Linear_Regression)
 
 <p align="center">
   <img src="./Info-graphs/Day%202.jpg">
 </p>
 
 ## 多元线性回归 | 第3天
-[多元线性回归实现](./Code/Day%203_Multiple_Linear_Regression.md)
+[多元线性回归实现](./Code/Day%203_Multiple_Linear_Regression)
 
 <p align="center">
   <img src="./Info-graphs/Day%203.png">
@@ -49,7 +49,7 @@
 由于时间关系，我将隔天发布信息图。如果有人在机器学习领域有一定经验，并愿意帮我编写代码文档，也了解github的Markdown语法，请在领英联系我。
 
 ## 逻辑回归 | 第6天
-[逻辑回归实现](./Code/Day%206_Logistic_Regression.md)
+[逻辑回归实现](./Code/Day%206_Logistic_Regression)
 
 ## K近邻法(k-NN) | 第7天
 <p align="center">
@@ -68,7 +68,7 @@
 了解更多关于SVM如何工作和实现knn算法的知识。
 
 ## K近邻法(k-NN) | 第11天
-[K近邻法(k-NN)实现](./Code/Day%2011_K-NN.md)
+[K近邻法(k-NN)实现](./Code/Day%2011_K-NN)
 
 ## 支持向量机(SVM) | 第12天
 <p align="center">
@@ -76,7 +76,7 @@
 </p>
 
 ## 支持向量机(SVM) | 第13天
-[SVM实现](./Code/Day%2013_SVM.md)
+[SVM实现](./Code/Day%2013_SVM)
 
 ## 支持向量机(SVM)的实现 | 第14天
 今天我在线性相关数据上实现了SVM。使用Scikit-Learn库。在scikit-learn中我们有SVC分类器，我们用它来完成这个任务。将在下一次实现时使用kernel-trick。Python代码见[此处](./Code/Day%2013_SVM.py),Jupyter notebook见[此处](./Code/Day%2013_SVM.ipynb)。
@@ -114,7 +114,7 @@
 Bloomberg ML课程的第3课介绍了一些核心概念，如输入空间，动作空间，结果空间，预测函数，损失函数和假设空间。
 
 ## 决策树 | 第25天
-[决策树实现](./Code/Day%2025_Decision_Tree.md)
+[决策树实现](./Code/Day%2025_Decision_Tree)
 
 ## 跳到复习线性代数 | 第26天
 发现YouTube一个神奇的频道[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)，它有一个播放列表《线性代数的本质》。看完了4个视频，包括了向量，线性组合，跨度，基向量，线性变换和矩阵乘法。
@@ -157,7 +157,7 @@ B站播放列表在[这里](https://space.bilibili.com/88461692/#/channel/detail
 </p>
 
 ## 随机森林 | 第34天
-[随机森林实现](./Code/Day%2034_Random_Forests.md)
+[随机森林实现](./Code/Day%2034_Random_Forests)
 
 ## 什么是神经网络？ | 深度学习，第1章 | 第 35天
 Youtube频道3Blue1Brown中有精彩的视频介绍神经网络。这个视频提供了很好的解释，并使用手写数字数据集演示基本概念。
