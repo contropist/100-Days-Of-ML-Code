@@ -1,7 +1,7 @@
 # 随机森林
 
 <p align="center">
-  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2033.png">
+  <img src="https://github.com/contropist/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2033.png">
 </p>
 
 ## 导入库
@@ -64,7 +64,7 @@ plt.show()
 ```
 
 <p align="center">
-  <img src="https://github.com/AnnaXJGe/100-Days-Of-ML-Code/blob/master/Info-graphs/random_forest_classification_training_set.png">
+  <img src="https://github.com/contropist/100-Days-Of-ML-Code/blob/master/Info-graphs/random_forest_classification_training_set.png">
 </p>
 
 ## 将测试集结果可视化
@@ -88,5 +88,5 @@ plt.show()
 ```
 
 <p align="center">
-  <img src="https://github.com/AnnaXJGe/100-Days-Of-ML-Code/blob/master/Info-graphs/random_forest_classification_test_set.png">
+  <img src="https://github.com/contropist/100-Days-Of-ML-Code/blob/master/Info-graphs/random_forest_classification_test_set.png">
 </p>
