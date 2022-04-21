@@ -19,7 +19,7 @@
   - [层次聚类](#层次聚类--第54天)
 
 ## 数据预处理 | 第1天
-[数据预处理实现](https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data_Preprocessing.md)
+[数据预处理实现](./Code/Day%201_Data_Preprocessing.md)
 
 <p align="center">
   <img src="./Info-graphs/Day%201.jpg">
