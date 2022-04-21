@@ -22,7 +22,7 @@
 [数据预处理实现](https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data_Preprocessing.md)
 
 <p align="center">
-  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%201.jpg">
+  <img src="./Info-graphs/Day%201.jpg">
 </p>
 
 ## 简单线性回归 | 第2天
